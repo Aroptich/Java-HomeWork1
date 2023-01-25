@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Random;
 
-public class ClassWork1 {
+public class HomeWork1 {
     public static final String reset = "\u001B[0m";
     public static final String yellow = "\u001B[33m";
 
